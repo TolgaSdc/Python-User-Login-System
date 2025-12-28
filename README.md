@@ -1,5 +1,5 @@
 # Python-User-Login-System
-Basic user login system with .json on Python. This is my first github project.
+Basic user login system with .json on Python. This is my first mini github project.
 
 
 # Python User Login System
